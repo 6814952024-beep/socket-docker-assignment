@@ -21,19 +21,20 @@ docker compose down
 
 ### ผลลัพธ์
 รัน container ทั้งหมด
-![up](screenshots/ex1-01-up.png)
+<img width="1917" height="1077" alt="composedown" src=ex1-01-up.png" />
 
 รายการ container
-![ps](screenshots/ex1-02-ps.png)
+<img width="1917" height="1077" alt="composedown" src=ex1-01-up.png" />
 
 แชตระหว่าง Client 1 และ Client 2
-![chat](screenshots/ex1-03-chat.png)
+<img width="1917" height="1077" alt="composedown" src=ex-02-hello.png" />
+<img width="1917" height="1077" alt="composedown" src=ex-03-rexeived.png" />
 
 Log ของ Server
-![server log](screenshots/ex1-04-server-log.png)
+-
 
 ปิด container
-![down](screenshots/ex1-05-down.png)
+<img width="1917" height="1077" alt="composedown" src=composedown.png" />
 
 ---
 
