@@ -21,20 +21,20 @@ docker compose down
 
 ### ผลลัพธ์
 รัน container ทั้งหมด
-<img width="1917" height="1077" alt="composedown" src=ex1-01-up.png" />
+<img width="1917" height="1077" src=ex1-01-up.png />
 
 รายการ container
-<img width="1917" height="1077" alt="composedown" src=ex1-01-up.png" />
+<img width="1917" height="1077" src=ex1-01-up.png />
 
 แชตระหว่าง Client 1 และ Client 2
-<img width="1917" height="1077" alt="composedown" src=ex-02-hello.png" />
-<img width="1917" height="1077" alt="composedown" src=ex-03-rexeived.png" />
+<img width="1917" height="1077" src=ex-02-hello.png />
+<img width="1917" height="1077" src=ex-03-rexeived.png />
 
 Log ของ Server
 -
 
 ปิด container
-<img width="1917" height="1077" alt="composedown" src=composedown.png" />
+<img width="1917" height="1077" src=composedown.png />
 
 ---
 
@@ -53,16 +53,16 @@ docker compose down
 
 ### ผลลัพธ์
 รัน container ทั้งหมด
-![up](screenshots/ex2-01-up.png)
+-
 
 หน้าฟอร์ม
-![form](screenshots/ex2-02-form.png)
+<img width="1917" height="1077" src=ex02-02.png />
 
 ผลลัพธ์หลังกด Send
-![result](screenshots/ex2-03-result.png)
+<img width="1917" height="1077" src=ex02-03.png />
 
 Log ของ Socket Server
-![server log](screenshots/ex2-04-server-log.png)
+-
 
 ---
 
